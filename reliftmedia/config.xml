@@ -24,8 +24,8 @@
 	<preference name="FadeSplashScreen"           value="true"/>
 	<preference name="ShowSplashScreenSpinner"    value="false" />
 	<platform name="android">
-    <icon src="icon.png" />
-    <splash src="splash.png" />
+    <icon src="www/icon.png" />
+    <splash src="www/splash.png" />
 	</platform>
 	
 	<allow-navigation href="https://www.reliftmedia.com/*" />
