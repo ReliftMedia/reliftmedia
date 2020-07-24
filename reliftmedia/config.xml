@@ -28,6 +28,6 @@
     <splash src="www/splash.png" />
 	</platform>
 	
-	<allow-navigation href="https://reliftmedia.blogspot.com/*" />
+	<allow-navigation href="https://www.reliftmedia.com/*" />
 	
 </widget>
