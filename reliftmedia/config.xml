@@ -21,13 +21,13 @@
 	<preference name="AutoHideSplashScreen"       value="false" />
 	<preference name="SplashScreenDelay"          value="99000" />
 	<preference name="SplashMaintainAspectRatio"  value="true" />
-	<preference name="FadeSplashScreen"           value="false"/>
+	<preference name="FadeSplashScreen"           value="true"/>
 	<preference name="ShowSplashScreenSpinner"    value="false" />
 	<platform name="android">
     <icon src="www/icon.png" />
     <splash src="www/splash.png" />
 	</platform>
 	
-	<allow-navigation href="https://reliftmedia.blogspot.com/*" />
+	<allow-navigation href="https://relift-media.blogspot.com/*" />
 	
 </widget>
